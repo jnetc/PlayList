@@ -1,0 +1,11 @@
+$font: 'Roboto', sans-serif;
+
+.app {
+  width: 400px;
+  margin: 0 auto;
+}
+
+h2, h3, h4, h5, h6, p, span {
+  font-family: $font;
+  font-weight: 100;
+}
